@@ -1,2 +1,2 @@
-# Mini-Paint
- Java Graphics AWT implementation of Paint Software
+~ Mini-Paint
+  A programmable code to mimic the functioning and the processes of the MS-Paint.
